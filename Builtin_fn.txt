@@ -1,0 +1,30 @@
+split() == This function splits the values by 
+            1) spaces and 2) commas split(",")
+
+strip() == Reduce the unwanted or unknown spaces
+
+map()   == It is used to access elements one by one 
+            without for loops
+
+len()   == Used to find the lenght of numbers or values
+
+sum()   == Used to add all values in the list
+
+avg     == len() / sum()
+
+max()   == Maximum number in the list
+
+min()   == Minimum number in the list
+
+abs()   == Used for absolute values in the list -->[abs(num) for num in numbers]
+
+ASC     == sorted()
+DESC    == sorted( , reverse = True)
+
+enumerate()  == Index the listed values list(enumerate(numbers, start= 1))
+
+divmod()== Returns (Quotient, Remainder)
+
+all()   == True If all the numbers in the list is positive
+
+any()   == True If all the numbers in the list is negative
